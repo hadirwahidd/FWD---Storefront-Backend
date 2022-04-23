@@ -2,6 +2,10 @@
 
 Advanced Track - Project #2
 
+## Description:
+
+A Backend designed with TypeScript, NodeJs and PostgreSQL. It's for a store where users can sign up and log in, navigate the list of products, view specifications of a specific product and add products to their cart so that they can make orders. JWT authentication and authorization is applied. The API is designed to be RESTful.
+
 ## Package Manager used:
 
 - `npm`
